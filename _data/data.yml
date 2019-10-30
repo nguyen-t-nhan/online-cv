@@ -28,7 +28,7 @@ sidebar:
 #      - idiom: Spanish
 #        level: Professional
 #
-    hobbies:
+    interests:
       - item: Cooking 
         link:
 
@@ -43,6 +43,7 @@ sidebar:
 
       - item: Chess 
         link:
+
 career-profile:
     title: Career Profile
     summary: |
