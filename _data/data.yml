@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Nhan Nguyen
-    tagline: Mathematician
+    tagline: Mathematician, Data Scientist, Researcher
     avatar: profile.jpg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -18,24 +18,27 @@ sidebar:
     linkedin: nhan-nguyen-ph-d-737661145/
     github: nguyen-t-nhan
 
-    languages:
-      - idiom: English
-        level: Native
-
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
-
+#    languages:
+#      - idiom: English
+#        level: Native
+#
+#      - idiom: French
+#        level: Professional
+#
+#      - idiom: Spanish
+#        level: Professional
+#
     interests:
+      - item: Cooking 
+        link:
+
+      - item: Jujitsu
+        link:
+
       - item: Climbing
         link:
 
-      - item: Snowboarding
-        link:
-
-      - item: Cooking
+      - item: Mathematics 
         link:
 
 career-profile:
