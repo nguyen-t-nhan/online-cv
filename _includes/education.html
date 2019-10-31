@@ -37,11 +37,12 @@
           <h3 class="degree">{{ graduation.degree }}</h3>
           <div class="time">{{ graduation.time }}</div>
         </div><!--//upper-row-->
-
+	<div class="university-info">
         <div class="university">{{ graduation.university }}</div>
 	{% if graduation.thesis %}
         <div class="thesis"><strong>Thesis</strong>: {{ graduation.thesis }}</div>
 	{% endif %}
+	</div><!--//university name and thesis-->
       </div><!--//meta-->
 
       {% if graduation.details %}
