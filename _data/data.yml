@@ -56,23 +56,19 @@ career-profile:
       Second paragraph if required.
 
 education:
-    - degree: PhD Mathematics
+    - degree: PhD in Mathematics
       university: University of Montana
       time: 2013 - 2018
       thesis: Central Simple Algebras and Related Objects in Both Zero and Positive Characteristic
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
+        Primiarily research focuses &colon 
+          - Non-Commutative Algebra, Number Theory, Algebraic Geometry
+        Secondary reserach focuses &colon
+          - Graph Theory, Extremal Graph Theory, Machine Learning, Geonomics
 
-          - Bullet point
-          - Bullet point
-
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: MS in Mathematics
+      university: Western Washington University
+      time: 2011 - 2013
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
