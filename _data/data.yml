@@ -62,10 +62,9 @@ education:
       time: 2013 - 2018
       thesis: Central Simple Algebras and Related Objects in Both Zero and Positive Characteristic
       details: |
-        Balanced research and teaching duties while mentoring undergrads and new graduate students. Research was conducted in a large array of topics across multiple mathematical disciplines. Research topics include; 
-          - | Primary: Non-Commutative Algebra, Number Theory, Algebraic Geometry
-          - | Secondary: Graph Theory, Extremal Graph Theory, Machine Learning, Geonomics
-
+        Studied a wide breadth of mathematical and statistical topics and conducted research on a large array of topics across multiple mathematical disciplines. Research topics and courses include; 
+          - Research&#58; Non-Commutative Algebra, Number Theory, Algebraic Geometry, Algebraic Statistics, Graph Theory, Extremal Graph Theory, Machine Learning, Geonomics
+          - Selected Courses&#58; Statistical Learning, Theoretical Big analytics, Generalized Linear Models. 
     - degree: MS in Mathematics
       university: Western Washington University
       time: 2011 - 2013
@@ -81,35 +80,31 @@ education:
 #          - Bullet point
 
 experiences:
-    - role: Research Staff Member 
+    - role: Senior Data Scientist 
       time: Aug 2018 - Present
       company: Insitute for Defense Analyses
       details: |
         Conducted research to provide complete, rigorous, and non biased information for government decision makers.
-          - Managed a team of data scientists to evaluate infrastructure needs for the Joint Artificial Intelligence Center.
-          - Developed multiple natural langauge processing system from concept to production. 
-          - Managed a team that automatically reads large swathes of news articles to determine causality. The system sucessfully saved hundred of man hours. 
-          - Developed natural langauge processing system
+          - Managed a team of data scientists to evaluate infrastructure needs for the Joint Artificial Intelligence Center. This consisted of aggregating data from over 30 different data sources into a SQL database that feeds multiple real time, automatically updating, interactive visualizations.
+          - Developed natural langauge processing system that reduced document selection time from 100+ hours of human effort to less than 10 hours of computational time and no human effort.
+          - Developed proof of concept name entity recognition (NER) and entity resolution (ER) system that led to 1 million dollar contract to begin developing production model. Proof of concept was completed on time and 35 thousand dollars under budget.
+          - Oversaw and executed mulitple large scale web scraping endeavours to collect useful data for analyses for a variety of projects. Scraping was done using specialized code written using automated test software.
 
     - role: Assistant Professor
       time: 2020 - Present
       company: North Virginia Community College
       details: |
         Taught a diverse set of mathematical courses to a diverse collection of students.
+          - Mentored and advised students.
+          - Developed interactive educational activities to keep students engaged.
 
-    - role: UI Developer
-      time: 2012 - 2014
-      company: Amazon, London
+    - role: Graduate Teaching Assistant
+      time: August 2013 - May 2018
+      company: University of Montana
       details: |
-        Describe your role here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-        Cum sociis natoque penatibus et magnis dis parturient montes,
-        nascetur ridiculus mus. Donec quam felis, ultricies nec,
-        pellentesque eu, pretium quis, sem.
-
-          - Bullet point
-          - Bullet point
-
+        Balanced research and teaching duties while mentoring undergrads and new graduate students.
+          - Mentored underrepresented minorities in mathematics as part of the MT^2 scholarship. 
+          - Presented multiple conference talks.
 #projects:
 #    title: Projects
 #    intro: >
@@ -137,41 +132,50 @@ experiences:
 #      - title: Delta
 #        link: "#"
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+
+certifications:
+    - degree: Big Data Analytics
+      university: University of Montana
+      time: 2018
+      thesis: Genetic Algorithms to Select Microbiome That Cause Dysentery in Children. 
+
+#publications:
+#    title: Publications
+#    intro: |
+#      You can list your publications in this section. Lorem ipsum dolor sit
+#      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
+#      bibendum fringilla a eu lectus.
 #
-publications:
-    title: Publications
-    intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
-
-    papers:
-      - title: The Art of Computer Programming
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
-
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
-
+#    papers:
+#      - title: The Art of Computer Programming
+#        authors: Donald E. Knuth
+#        conference: Addison-Wesley, 1968
+#
+#      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
+#        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
+#        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
+#
+#      - title: A syntax directed compiler for Algol 60
+#        authors: Edgar T. Irons
+#        conference: "Comm. ACM 4 (1961), 51–55"
+#
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
       - name: Python
-        level: 80%
+        level: 85%
 
       - name: Linux
         level: 60%
 
-      - name: Matlab 
-        level: 70%
+      - name: html/css 
+        level: 50%
 
       - name: Microsoft Office
+        level: 70%
+
+      - name: Project Management
         level: 70%
 
 #footer: >
