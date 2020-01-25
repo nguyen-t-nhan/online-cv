@@ -41,6 +41,9 @@ sidebar:
       - item: Mathematics 
         link:
 
+      - item: Programming 
+        link:
+      
       - item: Chess 
         link:
 
@@ -82,7 +85,7 @@ experiences:
         Conducted research to provide complete, rigorous, and non biased information for government decision makers.
           - Managed a team of data scientists to evaluate infrastructure needs for the Joint Artificial Intelligence Center. This consisted of aggregating data from over 30 different data sources into a SQL database that feeds multiple real time, automatically updating, interactive visualizations.
           - Developed natural langauge processing system that reduced document selection time from 100+ hours of human effort to less than 10 hours of computational time and minutes of human effort.
-          - Developed proof of concept name entity recognition (NER) and entity resolution (ER) system that led to 1 million dollar contract to begin developing production model. Proof of concept was completed on time and 35 thousand dollars under budget.
+          - Developed proof of concept named entity recognition (NER) and entity resolution (ER) system that led to 1 million dollar contract to begin developing production model. Proof of concept was completed on time and 35 thousand dollars under budget.
           - Oversaw and executed mulitple large scale web scraping endeavours to collect useful data for analyses for a variety of projects. Scraping was done using specialized code written using automated test software.
 
     - role: Assistant Professor
@@ -165,6 +168,12 @@ skills:
     toolset:
       - name: Python
         level: 85%
+
+      - name: R
+        level: 60%
+
+      - name: Matlab
+        level: 65%
 
       - name: Linux/GNU
         level: 60%
