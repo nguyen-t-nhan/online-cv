@@ -47,14 +47,9 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      I work in t
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
+      I have a wide spread list of research interests including non commutative algebra, graph theory and machine learning. I love to learn and enjoy doing research to tackle technical problems. With nearly seven years of teaching experience, communication of technical ideas to a diverse audience is natural.
 
-      Second paragraph if required.
+      Recently I have transitioned mostly to development and project management of machine learning systems. I focus on developing systems that reduce tedious tasks for humans in order to gain insight into data and maximize return on investment. 
 
 education:
     - degree: PhD in Mathematics
@@ -86,7 +81,7 @@ experiences:
       details: |
         Conducted research to provide complete, rigorous, and non biased information for government decision makers.
           - Managed a team of data scientists to evaluate infrastructure needs for the Joint Artificial Intelligence Center. This consisted of aggregating data from over 30 different data sources into a SQL database that feeds multiple real time, automatically updating, interactive visualizations.
-          - Developed natural langauge processing system that reduced document selection time from 100+ hours of human effort to less than 10 hours of computational time and no human effort.
+          - Developed natural langauge processing system that reduced document selection time from 100+ hours of human effort to less than 10 hours of computational time and minutes of human effort.
           - Developed proof of concept name entity recognition (NER) and entity resolution (ER) system that led to 1 million dollar contract to begin developing production model. Proof of concept was completed on time and 35 thousand dollars under budget.
           - Oversaw and executed mulitple large scale web scraping endeavours to collect useful data for analyses for a variety of projects. Scraping was done using specialized code written using automated test software.
 
@@ -139,6 +134,11 @@ certifications:
       time: 2018
       thesis: Genetic Algorithms to Select Bacteria that Cause Dysentery in Children.
 
+    - degree: TS/SCI Clearance
+      university: 
+      time: Active
+      thesis: 
+
 #publications:
 #    title: Publications
 #    intro: |
@@ -166,10 +166,10 @@ skills:
       - name: Python
         level: 85%
 
-      - name: Linux
+      - name: Linux/GNU
         level: 60%
 
-      - name: html/css 
+      - name: HTML/CSS 
         level: 50%
 
       - name: Microsoft Office

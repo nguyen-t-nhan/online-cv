@@ -40,7 +40,7 @@
 	<div class="university-info">
           <div class="university">{{ graduation.university }}</div>
 	{% if graduation.thesis %}
-          <div class="thesis"><strong>Project</strong>: {{ graduation.thesis }}</div>
+          <div class="thesis" style="margin-bottom: 10px"><strong>Project</strong>: {{ graduation.thesis }}</div>
 	{% endif %}
 	</div><!--//university name and thesis-->
       </div><!--//meta-->
@@ -50,7 +50,6 @@
         {{ graduation.details | markdownify }}
       </div><!--//details-->
       {% endif %}
-
     </div><!--//item-->
     {% endfor %}
 
