@@ -132,6 +132,8 @@ experiences:
 #        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
 
 certifications:
+    - degree: AWS Cloud Practicioner
+      time: 2020
     - degree: Big Data Analytics
       university: University of Montana
       time: 2018
